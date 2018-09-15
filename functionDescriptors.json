@@ -1,0 +1,16 @@
+    
+
+{
+
+"function_descriptors": {
+
+      "add":{"descriptor":"add", "secondary_descriptors": ["add", "plus"] }, 
+ "subtract":{"descriptor":"subtract", "secondary_descriptors": ["subtract", "minus"] },  
+ "multiply":{"descriptor":"multiply", "secondary_descriptors": ["multiply", "times", "by"] }, 
+   "divide":{"descriptor":"divide", "secondary_descriptors": ["divide"] } 
+
+}
+
+}
+
+
